@@ -16,3 +16,4 @@ This repository contains some of my Data Science Projects.
 | Projects        | Some end to end projects where I use multiple tools and methodologies to solve a specific problem |
 | Seaborn         | Contains visualizations with seaborn                                                              |
 | MachineLearning | Machine Learning Projects                                                                         |
+| Mesa            | Agent-based modelling with Mesa                                                                   |
