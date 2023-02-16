@@ -17,3 +17,4 @@ This repository contains some of my Data Science Projects.
 | Seaborn         | Contains visualizations with seaborn                                                              |
 | MachineLearning | Machine Learning Projects                                                                         |
 | Mesa            | Agent-based modelling with Mesa                                                                   |
+| AgentPy         | Agent-based modelling with AgentPy                                                                |
