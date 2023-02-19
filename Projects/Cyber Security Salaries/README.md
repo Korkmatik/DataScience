@@ -2,6 +2,13 @@
 
 This is an analysis of Cyber Security Salaries in the U.S. The full article can be found on Medium.
 
+# Project structure
+- 01_cyber_security_salaries_us_data_cleanup.ipynb: Basic exploratorative analysis and cleaning data
+- 02_us_data_analysis.ipynb: Analysis of U.S. Cyber Security Salaries
+- 03_model_development.ipynb: Building and comparing various models
+- salaries_cyber_us_cleaned.csv: Cleaned data containing only US salaries
+- salaries_cyber_model.csv: Data for training models
+
 # Example ML Pipeline
 
 You can download the model and the scaler from the releases page. After that you can make predictions with the following pipeline:
