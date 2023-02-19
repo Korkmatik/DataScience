@@ -20,5 +20,5 @@ f.close()
 # Predicting salary for junior professionals working at a large size company
 y_pred = model.predict( [[1, 0, 0, 0, 1, 0, 0]] )
 salary = standard_scaler.inverse_transform( y_pred )
-salary
+print(salary)
 ```
