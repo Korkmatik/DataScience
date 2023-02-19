@@ -11,7 +11,7 @@ This is an analysis of Cyber Security Salaries in the U.S. The full article can 
 
 # Example ML Pipeline
 
-You can download the model and the scaler from the releases page. After that you can make predictions with the following pipeline:
+You can download the model and the scaler from the [release page](https://github.com/Korkmatik/DataScience/releases/tag/v1). After that you can make predictions with the following pipeline:
 
 ```python
 import pickle
