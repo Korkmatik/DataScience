@@ -18,3 +18,4 @@ This repository contains some of my Data Science Projects.
 | MachineLearning | Machine Learning Projects                                                                         |
 | Mesa            | Agent-based modelling with Mesa                                                                   |
 | AgentPy         | Agent-based modelling with AgentPy                                                                |
+| TensorFlow      | Projects to learn Tensorflow                                                                      |
