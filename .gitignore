@@ -4,6 +4,7 @@ Mesa/agent_wealth.csv
 Projects/Cyber Security Salaries/salaries_cyber.csv
 Projects/Cyber Security Salaries/models/
 Projects/Cyber Security Salaries/hp_tuning/
+NLP/my_shakespear_model/
 
 # Created by https://www.toptal.com/developers/gitignore/api/jetbrains,jetbrains+all,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=jetbrains,jetbrains+all,python
